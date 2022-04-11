@@ -1,0 +1,28 @@
+{
+    "helloWorld": "Hello World!",
+    "@helloWorld": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "mdp": "Password",
+    "logIn": "Log in",
+    "logWithFb": "Connect with facebook",
+    "noAccount": "No account yet ?",
+    "mdpForgot": "Forgot your password ?",
+    "updateData": "Edit my profile",
+    "becomePetstitter": "Become a Petsitter",
+    "logout": "Log out",
+    "usefulinks": "useful links",
+    "buildPost": "Create posters",
+    "userGuide": "User's guide",
+    "animalData": "Animal's information",
+    "findFriend": "Find friends",
+    "lostPet": "Declare the loss of the animal",
+    "faq": "FAQ",
+    "cgu": "CGU",
+    "action": "ACTIONS",
+    "petPassort": "Pet Passport",
+    "petAround": "Pet Around",
+    "petAlert": "Pet Alert",
+    "petSitting": "Pet Sitting",
+    "petSittingDes": "In progress"
+}
