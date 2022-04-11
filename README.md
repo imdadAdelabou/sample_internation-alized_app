@@ -11,4 +11,4 @@ A new Flutter project.
 
 ## Demo
 
-<video src="https://youtube.com/shorts/u47Agf1HkrQ?feature=share"> </video>
+https://youtube.com/shorts/u47Agf1HkrQ?feature=share/
